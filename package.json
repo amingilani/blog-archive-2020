@@ -14,10 +14,7 @@
     "react": "^16.8.6",
     "react-dom": "^16.8.6"
   },
-  "devDependencies": {
-    "lighthousebot": "git+https://github.com/GoogleChromeLabs/lighthousebot.git",
-    "wait-for-netlify-preview": "^1.2.1"
-  },
+  "devDependencies": {},
   "keywords": [
     "gatsby",
     "medium",
