@@ -1,0 +1,149 @@
+## Created with gatsby-plugin-netlify
+
+/*
+  X-Frame-Options: DENY
+  X-XSS-Protection: 1; mode=block
+  X-Content-Type-Options: nosniff
+  Referrer-Policy: same-origin
+/static/*
+  Cache-Control: public, max-age=31536000, immutable
+/sw.js
+  Cache-Control: no-cache
+/wizards-and-witches-were-scientists/
+  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/wizards-and-witches-were-scientists/page-data.json>; rel=preload; as=fetch; crossorigin
+/please-use-email/
+  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/please-use-email/page-data.json>; rel=preload; as=fetch; crossorigin
+/introducing-pay-to-open-source-licenses/
+  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/introducing-pay-to-open-source-licenses/page-data.json>; rel=preload; as=fetch; crossorigin
+/don't-go-down-the-rabbit-hole/
+  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/don't-go-down-the-rabbit-hole/page-data.json>; rel=preload; as=fetch; crossorigin
+/heroku-to-private-cloud/
+  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/heroku-to-private-cloud/page-data.json>; rel=preload; as=fetch; crossorigin
+/possible-scenario/
+  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/possible-scenario/page-data.json>; rel=preload; as=fetch; crossorigin
+/things-to-do-before-creating-a-new-project/
+  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/things-to-do-before-creating-a-new-project/page-data.json>; rel=preload; as=fetch; crossorigin
+/you-go-girl!/
+  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/you-go-girl!/page-data.json>; rel=preload; as=fetch; crossorigin
+/semantic-ui-in-rails-via-webpack/
+  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/semantic-ui-in-rails-via-webpack/page-data.json>; rel=preload; as=fetch; crossorigin
+/subtle-updates-to-the-passport-of-pakistan/
+  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/subtle-updates-to-the-passport-of-pakistan/page-data.json>; rel=preload; as=fetch; crossorigin
+/i-don't-believe-in-the-mobile-apps/
+  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/i-don't-believe-in-the-mobile-apps/page-data.json>; rel=preload; as=fetch; crossorigin
+/why-aren't-we-all-activists/
+  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/why-aren't-we-all-activists/page-data.json>; rel=preload; as=fetch; crossorigin
+/using-copyright-law-to-take-down-facebook-trolls/
+  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/using-copyright-law-to-take-down-facebook-trolls/page-data.json>; rel=preload; as=fetch; crossorigin
+/flash/
+  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/flash/page-data.json>; rel=preload; as=fetch; crossorigin
+/how-to-file-a-right-to-information-request-in-pakistan-with-a-federal-organization/
+  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/how-to-file-a-right-to-information-request-in-pakistan-with-a-federal-organization/page-data.json>; rel=preload; as=fetch; crossorigin
+/how-to-file-a-right-to-information-request-in-punjab-pakistan/
+  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/how-to-file-a-right-to-information-request-in-punjab-pakistan/page-data.json>; rel=preload; as=fetch; crossorigin
+/yes!-here's-another-protip/
+  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/yes!-here's-another-protip/page-data.json>; rel=preload; as=fetch; crossorigin
+/there-are-instructions-on-the-english-form-itself/
+  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/there-are-instructions-on-the-english-form-itself/page-data.json>; rel=preload; as=fetch; crossorigin
+/pro-tip-cmd+shift+4-and-then-press-the-space-bar/
+  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/pro-tip-cmd+shift+4-and-then-press-the-space-bar/page-data.json>; rel=preload; as=fetch; crossorigin
+/i-bought-a-usb-flash-drive-off-of-ali-express-and-it-was-fine-here's-how-you-can-check-yours/
+  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/i-bought-a-usb-flash-drive-off-of-ali-express-and-it-was-fine-here's-how-you-can-check-yours/page-data.json>; rel=preload; as=fetch; crossorigin
+/how-to-get-your-police-character-certificate-in-lahore-pakistan/
+  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/how-to-get-your-police-character-certificate-in-lahore-pakistan/page-data.json>; rel=preload; as=fetch; crossorigin
+/lhc-set-to-hear-citizen's-appeal-to-constitute-federal-information-commission-on-thursday/
+  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/lhc-set-to-hear-citizen's-appeal-to-constitute-federal-information-commission-on-thursday/page-data.json>; rel=preload; as=fetch; crossorigin
+/the-ruby-case-statement-cheatsheet/
+  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/the-ruby-case-statement-cheatsheet/page-data.json>; rel=preload; as=fetch; crossorigin
+/a-guide-to-security-best-practices-for-remote-teams/
+  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/a-guide-to-security-best-practices-for-remote-teams/page-data.json>; rel=preload; as=fetch; crossorigin
+/unlimited-scale-and-free-web-hosting-with-github-pages-and-cloudflare/
+  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/unlimited-scale-and-free-web-hosting-with-github-pages-and-cloudflare/page-data.json>; rel=preload; as=fetch; crossorigin
+/two-welcome-side-effects-of-webpack-in-rails-or-euruko-2017-budapest/
+  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/two-welcome-side-effects-of-webpack-in-rails-or-euruko-2017-budapest/page-data.json>; rel=preload; as=fetch; crossorigin
+/custom-slugs-for-rails-urls-done-right/
+  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/custom-slugs-for-rails-urls-done-right/page-data.json>; rel=preload; as=fetch; crossorigin
+/passwords-saved-in-chrome-are-shown-in-your-google-account-in-plaintext/
+  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/passwords-saved-in-chrome-are-shown-in-your-google-account-in-plaintext/page-data.json>; rel=preload; as=fetch; crossorigin
+/storing-your-cryptocoins-in-a-bank-with-a-ledger-wallet/
+  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/storing-your-cryptocoins-in-a-bank-with-a-ledger-wallet/page-data.json>; rel=preload; as=fetch; crossorigin
+/ptcl-bb-it's-time-we-break-up/
+  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/ptcl-bb-it's-time-we-break-up/page-data.json>; rel=preload; as=fetch; crossorigin
+/please-use-git/
+  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/please-use-git/page-data.json>; rel=preload; as=fetch; crossorigin
+/passwords-are-dead-it's-the-future/
+  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/passwords-are-dead-it's-the-future/page-data.json>; rel=preload; as=fetch; crossorigin
+/disconnecting-ssh-while-installing-rvm-with-tmux/
+  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/disconnecting-ssh-while-installing-rvm-with-tmux/page-data.json>; rel=preload; as=fetch; crossorigin
+/wordpress-unavailable-in-pakistan/
+  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/wordpress-unavailable-in-pakistan/page-data.json>; rel=preload; as=fetch; crossorigin
+/why-i'm-stupid-to-be-an-entrepreneur/
+  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/why-i'm-stupid-to-be-an-entrepreneur/page-data.json>; rel=preload; as=fetch; crossorigin
+/don't-be-an-entrepreneur/
+  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/don't-be-an-entrepreneur/page-data.json>; rel=preload; as=fetch; crossorigin
+/never-lose-2fa-backup-codes-again/
+  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/never-lose-2fa-backup-codes-again/page-data.json>; rel=preload; as=fetch; crossorigin
+/someone-hacked-the-official-website-of-pakistan/
+  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/someone-hacked-the-official-website-of-pakistan/page-data.json>; rel=preload; as=fetch; crossorigin
+/farewell-old-lion/
+  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/farewell-old-lion/page-data.json>; rel=preload; as=fetch; crossorigin
+/cloud9ide-and-dreamhost/
+  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/cloud9ide-and-dreamhost/page-data.json>; rel=preload; as=fetch; crossorigin
+/dreamhost-and-kickstart2-beta-2/
+  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/dreamhost-and-kickstart2-beta-2/page-data.json>; rel=preload; as=fetch; crossorigin
+/making-the-explorer-bearable/
+  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/making-the-explorer-bearable/page-data.json>; rel=preload; as=fetch; crossorigin
+/my-htc-explorer-(pico)/
+  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/my-htc-explorer-(pico)/page-data.json>; rel=preload; as=fetch; crossorigin
+/404/
+  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/404/page-data.json>; rel=preload; as=fetch; crossorigin
+/
+  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/index/page-data.json>; rel=preload; as=fetch; crossorigin
+/404.html
+  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/404.html/page-data.json>; rel=preload; as=fetch; crossorigin
