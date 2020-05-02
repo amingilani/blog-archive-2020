@@ -12,6 +12,8 @@ module.exports = {
   githubUrl: 'https://github.com/amingilani/blog',
   // replace this by the url where your website will be published
   siteUrl: 'https://amin.gilani.me/blog',
+  // prefix all relative urls with this string
+  pathPrefix: "/blog",
   social: {
     // leave the social media you do not want to appear as empty strings
     twitter: 'amingilani',
