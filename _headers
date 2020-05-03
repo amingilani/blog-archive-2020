@@ -30,9 +30,6 @@
 /things-to-do-before-creating-a-new-project/
   Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
   Link: </page-data/things-to-do-before-creating-a-new-project/page-data.json>; rel=preload; as=fetch; crossorigin
-/you-go-girl!/
-  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
-  Link: </page-data/you-go-girl!/page-data.json>; rel=preload; as=fetch; crossorigin
 /semantic-ui-in-rails-via-webpack/
   Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
   Link: </page-data/semantic-ui-in-rails-via-webpack/page-data.json>; rel=preload; as=fetch; crossorigin
@@ -57,9 +54,6 @@
 /how-to-file-a-right-to-information-request-in-punjab-pakistan/
   Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
   Link: </page-data/how-to-file-a-right-to-information-request-in-punjab-pakistan/page-data.json>; rel=preload; as=fetch; crossorigin
-/yes!-here's-another-protip/
-  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
-  Link: </page-data/yes!-here's-another-protip/page-data.json>; rel=preload; as=fetch; crossorigin
 /there-are-instructions-on-the-english-form-itself/
   Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
   Link: </page-data/there-are-instructions-on-the-english-form-itself/page-data.json>; rel=preload; as=fetch; crossorigin
