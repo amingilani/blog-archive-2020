@@ -9,7 +9,7 @@
     "url": "git+https://github.com/amingilani/blog.git"
   },
   "dependencies": {
-    "gatsby": "^2.13.13",
+    "gatsby": "^4.25.7",
     "gatsby-theme-medium-to-own-blog": "^0.2.14",
     "gh-pages": "^2.2.0",
     "react": "^16.8.6",
